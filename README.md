@@ -1,6 +1,7 @@
-# testWebsite
+# TESTwebsite
 
-/TESTwebsite
+```
+TESTwebsite
   |-- templates/
       |-- index.html
   |-- app.py
@@ -9,3 +10,8 @@
   |-- LICENSE
   |-- vercel.json
   |-- runtime.txt
+```
+
+## Hosting
+
+This website is hosted at [https://test-website-sigma-eight.vercel.app/](https://test-website-sigma-eight.vercel.app/)
