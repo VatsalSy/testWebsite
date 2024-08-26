@@ -14,7 +14,7 @@ def add_numbers():
     data = request.json
     We = data['a']
     Oh = data['b']
-    c = np.sqrt(We)/Oh  # Your Python logic here
+    c = np.sqrt(We) / Oh
     return jsonify({'result': c})
 
 if __name__ == '__main__':
